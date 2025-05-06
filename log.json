@@ -1,1 +1,20 @@
-[]
+[
+    {
+        "id": "1414941205988920704",
+        "title": "数据结构",
+        "name": "数据结构",
+        "time": "2025-05-06 06:57:08",
+        "student": "赵思涵",
+        "status": "签到成功",
+        "url": "https://changjiang.yuketang.cn/m/v2/lesson/student/1414941205988920704"
+    },
+    {
+        "id": "1414971657458312192",
+        "title": "牢大",
+        "name": "牢大",
+        "time": "2025-05-06 06:57:09",
+        "student": "赵思涵",
+        "status": "签到成功",
+        "url": "https://changjiang.yuketang.cn/m/v2/lesson/student/1414971657458312192"
+    }
+]
